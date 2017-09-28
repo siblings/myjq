@@ -1,0 +1,7 @@
+¹þ¿Õ¼ä´ó
+echo "# myjq" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/siblings/myjq.git
+git push -u origin master
